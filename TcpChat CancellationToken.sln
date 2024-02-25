@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpChat CancellationToken", "TcpChat CancellationToken\TcpChat CancellationToken.csproj", "{9ABE6222-5E14-4168-AF48-2C20BB07C29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABE6222-5E14-4168-AF48-2C20BB07C29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABE6222-5E14-4168-AF48-2C20BB07C29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABE6222-5E14-4168-AF48-2C20BB07C29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABE6222-5E14-4168-AF48-2C20BB07C29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C6E6D3-83C5-4F8C-813F-A9066CB3C8FF}
+	EndGlobalSection
+EndGlobal
